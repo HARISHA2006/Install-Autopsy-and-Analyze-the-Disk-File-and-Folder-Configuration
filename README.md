@@ -50,6 +50,46 @@ Export or recover files if required for the investigation.
 7. Explore file/folder structure in the navigation pane.
 8.Export selected files for further examination.
 
+## CREATING A DISK PARTITION:
+Step1: Open File Manager
+● Right-click This PC → Click Show More Options.
+
+● Select Manage.
+
+Step2: Access Disk Management
+● In the new window, select Disk Management.
+
+Step3: Shrink the C Drive to Allocate Space
+• Locate C: drive → Right-click → Select Shrink Volume.
+• Enter the amount of memory to allocate for the new disk.
+• Click Shrink.
+
+Step4: Create a New Volume
+• Right-click on the newly unallocated space → Select New Simple Volume.
+
+• Follow the wizard and assign a disk name.
+
+• Click Finish to complete the process.
+
+• The new Disk Partition is created
+
+
+<img width="1917" height="1079" alt="Screenshot 2025-08-26 190051" src="https://github.com/user-attachments/assets/6fef83ed-ad59-49bd-838d-86bac29ebabb" />
+
+## ANALYSING FILES USING AUTOPSY:
+Step1: Create a Case
+• Enter a case name and select a location to store the case data.
+
+• Provide a case number and investigator details if required.
+
+Step2: Add a Data Source
+• Click "Add Data Source" and choose the type:
+
+• Select the data source and let Autopsy process it.
+Step3: File Analysis
+• Application
+
+
 ## OUTPUT:
 File and Folder Configuration Analysis Results
 
