@@ -89,9 +89,22 @@ Step2: Add a Data Source
 Step3: File Analysis
 • Application
 
+<img width="1919" height="1079" alt="Screenshot 2025-08-26 190914" src="https://github.com/user-attachments/assets/99818221-e18b-4098-9eb7-ddad35f178a9" />
+
+• File Metadata
+
+<img width="1918" height="1078" alt="Screenshot 2025-08-26 192003" src="https://github.com/user-attachments/assets/7c3cfa71-14f4-463a-80ab-77ebf8c52843" />
+
+• Click OS Account.
+
+<img width="1919" height="1079" alt="Screenshot 2025-08-26 192019" src="https://github.com/user-attachments/assets/a16a4bba-b7b6-47a8-869c-b83ef157ee74" />
+
 
 ## OUTPUT:
 File and Folder Configuration Analysis Results
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/21d18daa-a5c1-4089-a4b8-8fdf168502f0" />
+
 
 ## RESULT:
 Autopsy was installed successfully and used to analyze disk, file, and folder configuration for forensic investigation.
