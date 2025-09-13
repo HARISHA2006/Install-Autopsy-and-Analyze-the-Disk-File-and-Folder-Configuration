@@ -1,4 +1,4 @@
-# Install Autopsy and Analyze the Disk File and Folder Configuration
+## Install Autopsy and Analyze the Disk File and Folder Configuration
 
 ## AIM
 To install **Autopsy** and use it to analyze the disk’s file and folder configuration for forensic investigation.
@@ -72,10 +72,6 @@ Step4: Create a New Volume
 • Click Finish to complete the process.
 
 • The new Disk Partition is created
-
-
-<img width="1917" height="1079" alt="Screenshot 2025-08-26 190051" src="https://github.com/user-attachments/assets/6fef83ed-ad59-49bd-838d-86bac29ebabb" />
-
 ## ANALYSING FILES USING AUTOPSY:
 Step1: Create a Case
 • Enter a case name and select a location to store the case data.
@@ -89,21 +85,23 @@ Step2: Add a Data Source
 Step3: File Analysis
 • Application
 
-<img width="1919" height="1079" alt="Screenshot 2025-08-26 190914" src="https://github.com/user-attachments/assets/99818221-e18b-4098-9eb7-ddad35f178a9" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-13 212654" src="https://github.com/user-attachments/assets/f0240ceb-04ad-4401-a969-ef7986c18acb" />
+
+<img width="1915" height="1077" alt="Screenshot 2025-09-13 212644" src="https://github.com/user-attachments/assets/b4f11aa7-0bed-4519-98c1-8f920599315e" />
+
+
+<img width="1919" height="1079" alt="Screenshot 2025-09-13 212457" src="https://github.com/user-attachments/assets/f3f75695-59af-4ca0-9c00-b7f1b7db6826" />
+
 
 • File Metadata
+<img width="1918" height="1079" alt="Screenshot 2025-09-13 212525" src="https://github.com/user-attachments/assets/fa8daab3-9824-4fbc-b8d7-939aa213609e" />
 
-<img width="1918" height="1078" alt="Screenshot 2025-08-26 192003" src="https://github.com/user-attachments/assets/7c3cfa71-14f4-463a-80ab-77ebf8c52843" />
-
-• Click OS Account.
-
-<img width="1919" height="1079" alt="Screenshot 2025-08-26 192019" src="https://github.com/user-attachments/assets/a16a4bba-b7b6-47a8-869c-b83ef157ee74" />
 
 
 ## OUTPUT:
-File and Folder Configuration Analysis Results
+Report
 
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/21d18daa-a5c1-4089-a4b8-8fdf168502f0" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-13 212627" src="https://github.com/user-attachments/assets/72fd449d-f351-47cf-9063-0fc7a1816fd4" />
 
 
 ## RESULT:
