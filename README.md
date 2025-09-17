@@ -97,11 +97,22 @@ Step3: File Analysis
 <img width="1918" height="1079" alt="Screenshot 2025-09-13 212525" src="https://github.com/user-attachments/assets/fa8daab3-9824-4fbc-b8d7-939aa213609e" />
 
 
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/0227f8ce-bf52-45b8-9926-f13aef9034b1" />
+
+<img width="1919" height="1079" alt="Screenshot 2025-09-17 113714" src="https://github.com/user-attachments/assets/288786fd-9851-43d7-beca-6dbadb9167fb" />
+
+
+<img width="1918" height="1079" alt="Screenshot 2025-09-17 113738" src="https://github.com/user-attachments/assets/5f1fd27f-d958-4ca8-91ae-23dd9971bde0" />
+
+
+
 
 ## OUTPUT:
 Report
 
 <img width="1919" height="1079" alt="Screenshot 2025-09-13 212627" src="https://github.com/user-attachments/assets/72fd449d-f351-47cf-9063-0fc7a1816fd4" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7d26529e-5f04-4e5e-8ac6-a54c5ad62846" />
 
 
 ## RESULT:
