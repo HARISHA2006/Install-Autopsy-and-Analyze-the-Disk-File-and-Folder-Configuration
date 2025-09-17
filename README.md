@@ -1,4 +1,4 @@
-## Install Autopsy and Analyze the Disk File and Folder Configuration
+<img width="1916" height="1079" alt="image" src="https://github.com/user-attachments/assets/87e796f9-9a56-47e1-8ea0-e6485d9c69a3" />## Install Autopsy and Analyze the Disk File and Folder Configuration
 
 ## AIM
 To install **Autopsy** and use it to analyze the disk’s file and folder configuration for forensic investigation.
@@ -112,7 +112,9 @@ Report
 
 <img width="1919" height="1079" alt="Screenshot 2025-09-13 212627" src="https://github.com/user-attachments/assets/72fd449d-f351-47cf-9063-0fc7a1816fd4" />
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7d26529e-5f04-4e5e-8ac6-a54c5ad62846" />
+
+<img width="1916" height="1079" alt="image" src="https://github.com/user-attachments/assets/bc449ff2-3c53-44ef-8759-9e76ca0afd4d" />
+
 
 
 ## RESULT:
